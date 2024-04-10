@@ -1,0 +1,2 @@
+# qualidade
+Exercicio de qualidade
